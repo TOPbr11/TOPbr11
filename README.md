@@ -6,7 +6,7 @@ Me chamo Antonio e estudo programação 😃
 ---------------------------- Entre em Contato ---------------------------
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antoniospneto/)
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-silveira-peres-neto-4ba10a309/?trk=opento_sprofile_details)
 
 ---------------------------- Linguaguens ---------------------------
 
