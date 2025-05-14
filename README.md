@@ -1,6 +1,6 @@
  Hello there 👋
 
-Me chamo Antonio e estudo programação 😃
+Me chamo Antonio e atualmente estou cursando Engenharia de Software na Faculdade SENAI FATESG. Formei em Tecnico em Desenvolvimento de Sistemas no SENAI Itumbiara, onde eu aprendi a fazer sites em HTML e CSS com DataBase do MySQL😃
 
 
 ---------------------------- Entre em Contato ---------------------------
